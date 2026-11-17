@@ -53,5 +53,4 @@
 | `fig_range.png` | 1주차 그림 |
 | `week1_defects.md` | 자료 결함 기록 |
 
-![Uploading fig_range.png…]()
-
+![설명](fig_range.png)
