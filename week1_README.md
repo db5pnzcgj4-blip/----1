@@ -1,4 +1,3 @@
-<img width="2700" height="675" alt="fig_range" src="https://github.com/user-attachments/assets/d3930e1c-1b34-4ef0-b773-f7672e0e0117" />
 # 1주차: 전체 자료 읽어 들이기
 
 ## 이번 주 질문 한 줄
@@ -53,4 +52,4 @@
 | `fig_range.png` | 1주차 그림 |
 | `week1_defects.md` | 자료 결함 기록 |
 
-![설명](fig_range.png)
+<img width="2700" height="675" alt="fig_range" src="https://github.com/user-attachments/assets/d3930e1c-1b34-4ef0-b773-f7672e0e0117" />
